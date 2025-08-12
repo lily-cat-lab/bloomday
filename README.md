@@ -1,5 +1,3 @@
-# New England Seminar on Bloom Filters
-
 ## Overview
 - Single HTML file: `index.html`
 - No build process required
